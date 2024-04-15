@@ -2,11 +2,11 @@
 
 ## Todo
 
-- [] make it deploy
+- [] make it deploy(vercel)
 - [] Scaffold basic ui with mock data
-- [] Actualy set up a database
+- [] Actualy set up a database(vercel postgres)
 - [] Attach datasbe to UI
-- [] Add authentication
+- [] Add authentication(w/ clerk)
 - [] Add image upload
 - [] Error management(w/ Sentry)
 - [] Add Routing/image page(parallel route)
